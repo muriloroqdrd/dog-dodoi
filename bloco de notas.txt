@@ -1,0 +1,18 @@
+<html>
+<head>
+<style> 
+body {
+  background-image: url("img_tree.gif"), url("paper.gif");
+  background-repeat: no-repeat;
+  background-size:  75%;
+  background-position: center;
+  background-color: #ccccccc;
+  
+
+} 
+</style>
+</head>
+<body>
+ 
+</body>
+</html>
